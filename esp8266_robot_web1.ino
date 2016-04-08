@@ -17,8 +17,8 @@
 #include <Wire.h>
 #include <Adafruit_MotorShield.h>
 
-const char* ssid     = "Brodney-Fast";
-const char* password = "menagerie!";
+const char* ssid     = "YourSSID";
+const char* password = "YourWifiPassword";
 
 
 const long defaultCommandDuration = 250;
